@@ -2,7 +2,7 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
         <h3 style="color: green">P.S: I have just forked this to make small edits to the list, all credits go to <a href="https://github.com/sindresorhus/awesome">Original owner</a>.</h3>
 	<p>VQGAN+CLIP in a Jupyter Notebook docker:
-        <a href="https://console.paperspace.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb">
+        <a href="https://console.paperspace.com/github/rkhamilton/vqgan-clip-generator/blob/main/vqgan_clip_generator.ipynb">
 		<img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/></p>
 </a>
 	<br>
