@@ -1,5 +1,6 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+        <h3 style="color: green">P.S: I have just forked this to make small edits to the list, all credits go to<a href="https://github.com/sindresorhus/awesome">Original owner</a>.</h3>
 	<br>
 	<br>
 	<br>
